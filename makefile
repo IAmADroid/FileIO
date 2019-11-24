@@ -3,3 +3,6 @@ main: assign7.c
 
 clean:
 	rm main
+
+refresh:
+	cp ./data/courses.dat ./courses.dat
